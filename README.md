@@ -6,7 +6,7 @@ Hazır website için ne gibi süreçler gereklidir?
 Kendiniz veya işletmeniz için bir hazır web sitesi oluşturmak çok kolay, doğru araçları ve kaynakları kullanarak bunu kolayca yapabilirsiniz.
 
 Bu adım adım kılavuz, serbest çalışanlar, ajanslar veya web sitesine sahip olmak isteyenler için çok para harcamak zorunda kalmadan kolay kullanılabilir bir hazır web sitesi oluşturmanıza yardımcı olacaktır.
-
+https://yazilim.store/
 Tek yapmanız gereken kılavuzu tamamlamak ve bir web sitesi kurmak için boş zamanınızın 1-2 saatini ayırmak.
 
 Bir Web Sitesi Oluşturmak için İhtiyacınız Olan Şeyler
